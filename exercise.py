@@ -8,7 +8,6 @@ Created on Thu Dec 12 16:30:50 2019
 
 """""
 
-#df e
 import pandas as pd
 import sklearn
 import os
